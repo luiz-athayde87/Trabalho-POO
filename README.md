@@ -1,3 +1,3 @@
 # Trabalho-POO
-Trabalho feito para apresentação na aula de Programação Orientada a Objetos
+Trabalho feito para apresentação na aula de Programação Orientada a Objetos.
 Usando o princípio SOLID
